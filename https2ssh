@@ -1,0 +1,2 @@
+Changed config from https url to ssh url.
+It should not ask for password now.
